@@ -1,0 +1,24 @@
+.image_container{
+	width: 1000px;
+	height: 500px;
+	overflow: hidden;
+}
+#content1{
+	font:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color:#069;
+	font-size:24px;
+	background-color:#666;
+}
+#content2{
+	font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color:#339;
+	background-color:#699;
+	font-size:18px;
+}
+#content3{
+	font:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color:#690;
+	font-size:12px;
+	background-color:#630;
+}
+	
